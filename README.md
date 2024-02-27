@@ -1,5 +1,6 @@
 # Análisis de textos o discursos mediante la Ciencia de Datos![Herramientas-para-la-ciencia-de-datos](https://github.com/Wanves/An-lisis-Frecuencia-de-Palabras/assets/107213869/5eac6644-3dd7-4119-9cbb-7ea5aaca1bcb)
 
+
 El análisis de textos o discursos mediante la ciencia de datos es un proceso que implica la aplicación de técnicas computacionales para extraer información significativa y conocimiento útil de grandes cantidades de texto. Este enfoque combina principios de la lingüística computacional, el procesamiento del lenguaje natural (NLP por sus siglas en inglés), la minería de textos y técnicas estadísticas para entender, organizar y sacar conclusiones de datos textuales.
 
 Aquí hay una descripción detallada de las etapas típicas involucradas en el análisis de textos mediante la ciencia de datos:
